@@ -1,4 +1,4 @@
-# Acadgild_Assignment1.1
+# Acadgild_Assignment-1.1
 Assignment 1.1
 Please mention true or false for the below statements:
 a) Prescriptive Analytics is used to predict the future outcomes
